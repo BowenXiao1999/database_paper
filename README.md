@@ -3,7 +3,7 @@ Comments for paper I have read in database system area. Most papers are collecte
 
 ## Goal
 * Track what to read and what have read.
-* Improve my academic reading/thinking. ESPECIALLY critical thinking.
+* Improve my academic reading/thinking. Especially CRITICAL thinking.
 * Easy navigation.
 
 ## Usage
