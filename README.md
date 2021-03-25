@@ -1,7 +1,8 @@
 # database_paper
-My comments for paper I have read in database system area. Most papers are collected from top conference or journals, including but not limited to SIGMOD, VLDB, CIDR, OSDI (etc.).
+Comments for paper I have read in database system area. Most papers are collected from top conference or journals, including but not limited to SIGMOD, VLDB, CIDR, OSDI (etc.). Watch and star it if you want to know my thoughts on papers!
 
 ## Goal
+* Track what to read and what have read.
 * Improve my academic reading/thinking. ESPECIALLY critical thinking.
 * Easy navigation.
 
